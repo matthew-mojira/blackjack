@@ -65,7 +65,7 @@ executable blackjack
     -- other-extensions:
 
     -- Other library packages from which modules are imported.
-    build-depends:    base ^>=4.17.2.1, mtl, list-shuffle, monad-loops
+    build-depends:    base ^>=4.17.2.0, mtl, list-shuffle, monad-loops
 
     -- Directories containing source files.
     hs-source-dirs:   src
